@@ -1,0 +1,6 @@
+customtkinter>=5.2.0
+scikit-learn
+joblib
+Pillow
+torch
+transformers
