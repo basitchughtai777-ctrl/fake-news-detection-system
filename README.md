@@ -29,3 +29,19 @@ This project uses Machine Learning to detect whether a news article is REAL or F
 
 ## 👨‍💻 Author
 Basit Ali Chughtai
+#Comments
+Initial project setup
+Added README file
+Added dataset folder
+Created preprocessing function
+Improved text cleaning
+Fixed model error
+Added feature extraction
+Updated training script
+Improved accuracy logic
+Added comments in code
+Fixed bug in prediction
+Refactored code structure
+Updated requirements file
+Final model update
+Project cleanup
